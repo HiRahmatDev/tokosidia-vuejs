@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/tokosidia-vuejs)
 ![GitHub contributors](https://img.shields.io/github/contributors/HiRahmat-Dev/tokosidia-vuejs)
 ![GitHub stars](https://img.shields.io/github/stars/HiRahmat-Dev/tokosidia-vuejs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/tokosidia-vuejs?style=social)
+[![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/tokosidia-vuejs?style=social)](https://github.com/HiRahmat-Dev/tokosidia-vuejs/network/members)
 ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FHiRahmat-Dev%2Ftokosidia-vuejs
 )
 
